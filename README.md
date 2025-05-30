@@ -1,3 +1,16 @@
+# ToDos
+
+- [ ] Website Icon
+- [ ] Upload paper to arxiv
+- [ ] Add link
+- [ ] Add citation
+- [ ] Write Tweet
+- [ ] Upload Failure instance videos  
+- [ ] Release Code
+- [ ] add link
+- [ ] Create and upload annotated videos
+- [ ] Create and upload teaser video
+
 # Academic Project Page Template
 This is an academic paper project page template.
 
